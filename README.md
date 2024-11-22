@@ -4,7 +4,7 @@
 
 ✍️ Find my writings and learnings over [here](#)
 
-![DevOps Illustration]([https://via.placeholder.com/](https://raw.githubusercontent.com/Vij4y16/Vij4y16/refs/heads/main/Assets/job.gif)800x400) <!-- Replace this with your custom image -->
+![DevOps Illustration](https://raw.githubusercontent.com/Vij4y16/Vij4y16/refs/heads/main/Assets/job.gif/800x400) <!-- Replace this with your custom image -->
 
 Driven by the love for scalable, secure, and efficient systems, I thrive on solving complex challenges to bridge development and operations.  
 I’m always eager to explore new technologies and contribute to the DevOps community.
