@@ -2,8 +2,6 @@
 
 🌱 I am a DevOps Engineer passionate about automating workflows, optimizing infrastructure, and enabling smooth CI/CD processes.
 
-✍️ Find my writings and learnings over [here](#)
-
  <img src="https://raw.githubusercontent.com/Vij4y16/Vij4y16/main/Assets/job.gif" alt="DevOps Illustration" width="600" height="300">
  <!-- Updated with correct URL -->
 
